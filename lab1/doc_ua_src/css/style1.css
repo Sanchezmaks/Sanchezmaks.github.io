@@ -1,0 +1,225 @@
+*{
+	font-family: Arial, sans-serif
+ }
+
+ .container {
+	width: 640px;
+	min-height: 1000px;
+	border-width: 59px 58px 0px 58px;
+	border-style: solid;
+	border-color: #d1d1d1;
+	margin: auto;
+}
+
+.header__image {
+	width: 640px;
+    height: 150px;
+    background-size: contain;
+    background-position: 50%;
+}
+
+.friends__title {
+	font-size: 16px;
+	font-weight: 400;
+	color:#000000;
+	text-align: center;
+	margin: 55px 0px 0px 0px;
+}
+
+.friends__text{
+	font-size: 16px;
+	font-weight: 400;
+	color:#000000;
+	text-align: left;
+	padding: 0px 51px 0px 51px;
+	line-height: 22px;
+	margin-bottom: 25px;
+}
+
+.friends__text a {
+color:#1155cc;
+}
+
+.content {
+	width: 580px;
+	min-height: 20px;
+	background-color: #ffffff;
+	margin: 30px 0px 0px 51px;
+	display: block;
+}
+
+.photo1,
+.photo2 {
+	width: 255px;
+	min-height: 353px;
+	background-color: #ffffff;
+	float: left;
+	margin-right: 30px;
+	position: relative;
+}
+
+.photo3,
+.photo4,
+.photo5 {
+	width: 160px;
+	height: 376px;
+	background-color: #ffffff;
+	float: left;
+	margin: 30px 30px 0px 0px;
+	position: relative;
+}
+
+.photo1__i1,
+.photo2__i2{
+	width: 255px;
+    height: 214px;
+    background-size: contain;
+    background-position: 50%;
+ 	float: left;
+ 	padding: 0px 30px 15px 0px;
+}
+
+.photo3__i3,
+.photo4__i4,
+.photo5__i5{
+	width: 160px;
+    height: 213px;
+    background-size: contain;
+    background-position: 50%;
+ 	float: left;
+ 	padding: 0px 30px 15px 0px;
+}
+
+.content1__subtitle,
+.content2__subtitle,
+.content3__subtitle,
+.content4__subtitle,
+.content5__subtitle {
+	font-size: 16px;
+	line-height: 22px;
+	color:#000000;
+	text-align:left;
+}
+
+.photo1__button,
+.photo2__button {
+	width: 255px;
+    height: 41px;
+    font-size: 15px;
+	font-weight: 700;
+    border-radius: 5px;
+    text-align: center;
+    border: none;
+    cursor: pointer;
+    margin: 20px 0px 0px 0px;
+    position: absolute;
+	bottom: 0;
+}
+
+.photo3__button{
+	width: 160px;
+    height: 41px;
+    font-size: 15px;
+	font-weight: 700;
+    border-radius: 5px;
+    text-align: center;
+    border: none;
+    cursor: pointer;
+    position: absolute;
+	bottom: 0;
+}
+
+.photo4__button,
+.photo5__button {
+	width: 160px;
+    height: 41px;
+    font-size: 15px;
+	font-weight: 700;
+    border-radius: 5px;
+    text-align: center;
+    border: none;
+    cursor: pointer;
+    position: absolute;
+	bottom: 0;
+}
+
+.photo1__color,
+.photo2__color,
+.photo3__color,
+.photo4__color,
+.photo5__color {
+	background-color: #f04736;
+    color: #ffffff;
+}
+
+.description {
+	width: 540px;
+    height: 192px;
+    background-color: #ffffff;
+    margin: 30px 0px 0px 51px;
+    position: relative;
+}
+
+.remember,
+.respect {
+	font-size: 16px;
+	font-weight: 400;
+	color:#000000;
+	text-align: left;
+	line-height: 22px;
+	
+}
+
+
+.like__botton {
+	width: 540px;
+    height: 41px;
+    font-size: 15px;
+	font-weight: 700;
+    border-radius: 5px;
+    text-align: center;
+    border: none;
+    cursor: pointer;
+    position: absolute;
+    bottom: 0;
+    
+}
+
+.like__color {
+	background-color: #f04736;
+    color: #ffffff;
+}
+
+.remember a {
+color:#1155cc;
+}
+
+.respect a {
+color:#1155cc;
+}
+
+.footer {
+	width: 640px;
+    height: 110px;
+    background-color: #d1d1d1;
+    margin: 30px 0px 0px 0px;
+  }
+
+
+.warning__title {
+	font-size: 11px;
+	font-weight: 700;
+	color:#ffffff;
+	text-align: center;
+	line-height: 22px;
+	padding:45px 0px 0px 0px;
+}
+
+.warning__title a {
+color:#ffffff;
+}
+
+
+
+
+
