@@ -1,0 +1,42 @@
+.collage{
+    position: relative;
+    width: 560px;
+    height: 400px;
+    margin: auto;
+    background-color:#80cdc6;
+    top: 50px;
+ }
+
+.clouds, .world, .wooden-ship, .water{
+    position: relative;
+    background-repeat:no-repeat;
+}
+
+.clouds{
+    left: 215px;
+    width:295px;
+    top:-5px;
+    background-image: url(../image/clouds.svg);
+    height: 100px;
+}
+
+.water{
+    height: 47px;
+    width: 560px;
+    background-image: url(../image/water.svg);
+    bottom: 130px;
+}
+
+.wooden-ship {
+    width: 115px;
+    left: 15px;
+    background-image: url(../image/wooden-ship.svg);
+    height: 100px;
+    bottom:120px;
+}
+
+.world{
+    width:560px;
+    background-image: url(../image/world.svg);
+    height: 300px;
+}

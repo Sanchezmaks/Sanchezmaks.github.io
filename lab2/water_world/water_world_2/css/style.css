@@ -1,0 +1,34 @@
+.collage {
+ position: relative;
+ width: 560px;
+ height: 420px;
+ margin: auto;
+ background: #80cdc6;
+ top: 50px;
+}
+
+.clouds, .world, .wooden-ship, .water {
+ position: relative;
+}
+
+.clouds {
+left: 215px;
+width:295px;
+top:-5px;
+}
+
+.water {
+height: 47px;
+width: 560px;
+bottom:170px;  
+}
+
+.wooden-ship {
+width: 115px;
+left: 15px;
+bottom:150px;
+}
+
+.world{
+    width:560px;
+}
